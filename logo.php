@@ -3,8 +3,8 @@
 Plugin Name: Easy Genesis Logo Uploader
 Plugin URI: 
 Description: Enable you to simply upload your logo to a Genesis Child Theme.
-Version: 0.1.0
-Author: Jonathan Perez
+Version: 0.1.1
+Author: Sure Fire Web Services Inc.
 Author URI: http://surefirewebservices.com
 License: GPL 2
 Text Domain: sf-logo-updater
@@ -104,7 +104,7 @@ function sflu_do_logo() {
  *
  * Applies the uploaded image to the genesis_site_title hook.
  *
- * @since 1.0.0
+ * @since 1.0.1
  * @uses genesis_get_option() Get theme setting value.
  * @uses get_theme_mod() Retrieves a modification setting for the current theme.
  * 

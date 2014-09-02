@@ -55,6 +55,9 @@ Because every logo is different. It wouldn’t make sense to have a default styl
 
 == Changelog ==
 
+= 1.1 =
+* Changed the logo link to use site_url() instead of ‘/‘ 
+
 = 1.0 =
 * Official WordPress Release
 
