@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Sure Fire Genesis Logo Uploader
+Plugin Name: Easy Genesis Logo Uploader
 Plugin URI: 
 Description: Enable you to simply upload your logo to a Genesis Child Theme.
 Version: 0.1.0
