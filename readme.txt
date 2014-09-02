@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: surefireweb, daveshine (David Decker) 
+Contributors: surefirewebserv, daveshine (David Decker) 
 Tags: Genesis, Genesis Framework, Logo, Upload, Genesis logo, Genesis logo upload
 Requires at least: 3.0.1
 Tested up to: 3.9.2
