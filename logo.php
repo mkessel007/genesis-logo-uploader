@@ -112,7 +112,7 @@ function sflu_do_logo() {
 function sflu_replace_logo() {
 	$sf_get_logo = get_theme_mod( 'sflu_logo' );
  	if ( genesis_get_option('blog_title') == 'image' && get_theme_mod( 'sflu_logo' ) )
- 		echo '<div class="site-logo"><a href="/"><img src="' . $sf_get_logo .'"></a></div>';
+ 		echo '<div class="site-logo"><a href="' . site_url() . '"><img src="' . $sf_get_logo .'"></a></div>';
 }
 
 /**
